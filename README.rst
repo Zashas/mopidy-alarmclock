@@ -2,6 +2,9 @@
 Mopidy-AlarmClock
 ****************************
 
+WARNING ! This repo is no longer maintained. The project has been forked and nicely improved by DavisNT over here : https://github.com/DavisNT/mopidy-alarmclock
+
+
 .. image:: https://img.shields.io/pypi/v/Mopidy-AlarmClock.svg?style=flat
     :target: https://pypi.python.org/pypi/Mopidy-AlarmClock/
     :alt: Latest PyPI version
